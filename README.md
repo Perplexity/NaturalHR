@@ -47,4 +47,4 @@ export const history = createBrowserHistory({
 });
 ```
 3. In `client/src/package.json`, change the `homepage` value to `/naturalhr`.
-4. Follow the Setup process from step 5.
+4. Follow the Setup process from step 4 or 5.
