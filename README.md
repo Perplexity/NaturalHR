@@ -16,7 +16,7 @@ Follow these instructions to get a working build:
 8. Copy all files from the `server` folder into your website's root directory.
 9. Create a database named `naturalhr` in your MySQL database.
 10. Run the `naturalhr.sql` script in your `naturalhr` database.
-11. Update the login credentials in `/Library/Database/DB.php`.
+11. Update the login credentials in `server/Library/Database/DB.php`.
 12. Navigate to your website, and everything should work smoothly.
 
 # The website only displays a white blank page
