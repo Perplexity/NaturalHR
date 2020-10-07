@@ -1,8 +1,6 @@
 # About
 This project features a working Login, Register, and Home page with user uploads and uses JSON Web Tokens (JWT) for authorization. This project was built in React, using the [create-react-app](https://create-react-app.dev/) boilerplate with the Redux template.
 
-Click the following link for a [Live Demo](http://92.233.170.28/Login)
-
 # Setup
 Follow these instructions to get a working build:
 
